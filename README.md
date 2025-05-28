@@ -84,5 +84,3 @@ llama3: Hi there! How can I help you today?
 MIT License
 
 ---
-
-Made with ❤️ for local AI chat!
