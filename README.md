@@ -81,6 +81,6 @@ llama3: Hi there! How can I help you today?
 
 ## 📝 License
 
-MIT License
+GNU License
 
 ---
